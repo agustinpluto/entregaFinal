@@ -1,0 +1,65 @@
+body{
+      font-family: 'Ubuntu', sans-serif;
+      font-size: 16px;
+      line-height: 20px;
+      background-color: black;
+      color: plum;
+}
+
+.holder{
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+h2{
+  color: rgb(0, 54, 14);
+  font-weight: 400px;
+  margin: 0 0 1em;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.columnas{
+  overflow: hidden;
+}
+
+.bienvenidos, .testimonios{
+  box-sizing: border-box;
+}
+
+.bienvenidos{
+  width: 75%;
+  padding-right: 2em;
+}
+
+.testimonios{
+  width: 25%;
+  margin-top: 5px;
+}
+
+.testimonio{
+  padding: 1em;
+  background-color: rgb(75, 30, 30);
+}
+
+.testimonio .cita{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 17px;
+  display: block;
+}
+
+.testimonio .autor{
+  font-size: 0.7em;
+  text-align: center;
+  margin-left: 12px;
+}
+
+
+

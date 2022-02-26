@@ -1,0 +1,16 @@
+.formulario {
+    margin-left: 10px;
+    background-color: rebeccapurple;
+    color: seashell;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.primera {
+    margin-left: 10px;
+}
+
+.centrar {
+    margin-right: 4px;
+}
