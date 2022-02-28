@@ -6,14 +6,17 @@ const NovedadItem = (props) => {
     return (
 
         <div className="novedades">
+            <ul>
+                <li >
+                    <h1>Titulo: {title}</h1>
 
-            <h1 src={title}>A VER SI APARECE{title}</h1>
+                    <h2>Subtitulo: {subtitle}</h2>
 
-            <h2>A VER SI SUB{subtitle}</h2>
+                    <img src={imagen} className ="imagen" />
 
-            <img src={imagen} />
-
-            <div dangerouslySetInnerHTML={{ __html: body }} />
+                    <div dangerouslySetInnerHTML={{ __html: body }} />
+                </li>
+            </ul>
 
             <hr />
         </div>
