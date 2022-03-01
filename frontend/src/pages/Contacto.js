@@ -69,10 +69,10 @@ const ContactoPage = (props) => {
                 <h2>Mas contactos.</h2>
                 <p>Tambien puede contactarnos por: </p>
                 <ul>
-                    <li>Telefono: 1234314213</li>
-                    <li>Email: mail@mail.com</li>
-                    <li>Facebook: un facebook</li>
-                    <li>Twitter: un twitter</li>
+                    <li>Telefono: 35155544419</li>
+                    <li>Email: plantplus@gmail.com</li>
+                    <li>Facebook: PlantPlus</li>
+                    <li>Twitter: @Plant+</li>
                 </ul>
             </div>
         </main>

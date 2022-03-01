@@ -8,9 +8,9 @@ const NovedadItem = (props) => {
         <div className="novedades">
             <ul>
                 <li >
-                    <h1>Titulo: {title}</h1>
+                    <h1>{title}.</h1>
 
-                    <h2>Subtitulo: {subtitle}</h2>
+                    <h2>{subtitle}.</h2>
 
                     <img src={imagen} className ="imagen" />
 

@@ -6,9 +6,9 @@ const HomePage = (props) => {
             <div className="columnas">
                 <div className="bienvenidos left">
                     <h2>Bienvenidos</h2>
-                    <p>Plant+ es una pagina pensada para fomentar la horticultura, no hace falta gastar grandes cantidades
-                        de dinero
-                        para tener plantas, ni tanto espacio. Con que tengas una ventana en tu casa ya es suficiente.
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores modi molestias vel, harum
+                        expedita animi similique reprehenderit sint ea accusantium qui explicabo. Porro ullam eius quisquam
+                        dolores possimus? Fuga.
                     </p>
                     <p>Animate a descubrir el maravilloso mundo verde, le hagamos un bien al planeta!</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat dolores modi molestias vel, harum
